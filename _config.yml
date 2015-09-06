@@ -1,0 +1,13 @@
+# Site settings
+author: Ron Zacharski
+title: Compassionate Path
+email: ron.zacharski@gmail.com
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /posts/:year/:month/:title.html
+
+# Build settings
+markdown: kramdown
+destination: htdocs
+paginate: 5
+
