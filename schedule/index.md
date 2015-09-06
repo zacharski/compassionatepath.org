@@ -8,7 +8,7 @@ We invite beginners and experienced practitioners alike. All events are free.
 #### Tuesday Weekly Practice
 
 #####6:45pm Loriella Park
-We meet Tuesdays at 6:45 for traditional meditation (zazen). See our [meetup page](http://www.meetup.com/Beginners-Mind-Zen/) for current details. Traditional Zen meditation is silent and unguided. <span class='marginnote'>See [How to Sit Zazen](http://www.dogensanghalosangeles.org/about-zen/how-to-sit-zazen/) by the Dogen Sangha Los Angeles and also [this page]({{site.baseurl}}howtosit/)  prepared by our sangha member, Lauren Jurgensen.</span> We meditate for two short periods of zazen (seated meditation) and one of kinhin (walking meditation). This will be followed by a short discussion where we will talk about the practical aspects of meditation.  Beginners are welcome and basic instruction in meditation will be given at the beginning of the session.
+We meet Tuesdays at 6:45 for traditional meditation (zazen). See our [meetup page](http://www.meetup.com/Beginners-Mind-Zen/) for current details. Traditional Zen meditation is silent and unguided. <span class='marginnote'>See [How to Sit Zazen](http://www.dogensanghalosangeles.org/about-zen/how-to-sit-zazen/) by the Dogen Sangha Los Angeles and also [this page]({{site.baseurl}}/howtosit/)  prepared by our sangha member, Lauren Jurgensen.</span> We meditate for two short periods of zazen (seated meditation) and one of kinhin (walking meditation). This will be followed by a short discussion where we will talk about the practical aspects of meditation.  Beginners are welcome and basic instruction in meditation will be given at the beginning of the session.
 
 #### Sunday Service
 
