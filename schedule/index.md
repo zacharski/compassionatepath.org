@@ -31,6 +31,6 @@ If you would like to meet with me to discuss your practice or chat about Zen I w
 
 
 #### Our Leavells Road location
-Our location is the next parking lot over from Vinny's Grill. Look for signs for an orthodontist as well as Dr. Arvan's dental practice. Once you turn into the parking lot, we are the brick building at the end of the lot. Just knock on the door! We are in a loft above a dentist's office. We are grateful to our sangha member, XY for providing this space.
+Our location is the next parking lot over from Vinny's Grill. Look for signs for an orthodontist as well as Dr. Arvan's dental practice. Once you turn into the parking lot, we are the brick building at the end of the lot. Just knock on the door! We are in a loft above a dentist's office. We are grateful to our sangha member, Eve Arvan for providing this space.
 
 
