@@ -16,7 +16,7 @@ We all live busy lives. We work at hard jobs often putting in more than 40 hours
 
 Just this past week I received email from a friend--a Zen priest who was ordained at the same ceremony I was. He said he was quitting his university job in Oregon and moving to Maryland with his wife and kids to live and work in a Catholic Worker intentional community that serves the homeless. That seems like a life focused on helping others. But what about the rest of us who are struggling with living, not in a monastic intentional community, but in modern urban life? Where does compassion and helping others fit in?
 
-I would like to invite you to a discussion on Sunday 15 November at 2pm at the Salem Church Library. The topics are 1) how can we be more compassionate in our daily lives and 2) what can we do as a small community to foster compassion. To seed this discussion, I have a few short videos and a few web links. 
+I would like to invite you to a discussion on Sunday 15 November at 2pm at Blackstone Coffee, 1113 Jefferson Davis Hwy (look for a 'Zen' sign on our table). The topics are 1) how can we be more compassionate in our daily lives and 2) what can we do as a small community to foster compassion. To seed this discussion, I have a few short videos and a few web links. 
 
 This first video (surprisingly, an insurance company advertisement) was discovered by Ted Pickett, one of our community members.
 
