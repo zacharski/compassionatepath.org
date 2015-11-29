@@ -12,16 +12,14 @@ We meet Tuesdays at 6:45 for traditional meditation (zazen). See our [meetup pag
 
 #### Sunday Service
 
-##### First Sunday of the Month 2:00pm. Location: 11111 Leavells Road, Fredericksburg, VA
-Sunday Service will start in October. The exact dates and locations will be announced on our [meetup page](http://www.meetup.com/Beginners-Mind-Zen/).
-    
-On the first Sunday of each month, we meet for a Zen Buddhist service which includes chanting, meditation, and a short dharma discussion. 
+##### TBD
+Once we find a location we will be offering regular Zen Buddhist services which include chanting, meditation, and a short dharma discussion. Once this does get organized it will be announced both here and on our [meetup page](http://www.meetup.com/Beginners-Mind-Zen/).
 
 #### Sunday Book Study
 
 #####2:00pm. Location: Salem Church Library, 2607 Salem Church Rd, Fredericksburg
 
-We are currently discussing the book [*How to Wake Up: A Buddhist-Inspired Guide to Navigating Joy and Sorrow*](http://www.amazon.com/How-Wake-Up-Buddhist-Inspired-Navigating/dp/1614290563/ref=sr_1_1?ie=UTF8&qid=1441458774&sr=8-1&keywords=how+to+wake+up) by Toni Bernhard. Please check our [meetup page](http://www.meetup.com/Beginners-Mind-Zen/) to see what chapters we will be discussing for the current Sunday. This group does not meet the first Sunday of the month. 
+We just ended our discussion of the book [*How to Wake Up: A Buddhist-Inspired Guide to Navigating Joy and Sorrow*](http://www.amazon.com/How-Wake-Up-Buddhist-Inspired-Navigating/dp/1614290563/ref=sr_1_1?ie=UTF8&qid=1441458774&sr=8-1&keywords=how+to+wake+up) by Toni Bernhard. We will be starting a new book discussion group in January. We will be announcing the Meetup shortly.
 
 #### Informal meetings 
 
