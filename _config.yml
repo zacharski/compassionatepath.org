@@ -5,6 +5,7 @@ email: ron.zacharski@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /posts/:year/:month/:title.html
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
