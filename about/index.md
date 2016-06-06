@@ -14,7 +14,7 @@ You can get involved by dropping in to our Tuesday  night meditation group, atte
 
 #### Our Roots
 
-The Compassionate Path community is rooted in the Soto Zen School and affiliated with *The Order of Clear Mind Zen*, whose goal is to bring about abundant good for all beings through social action. For more information see [our lineage page](/lineage/). 
+<span class='marginnote'><img class="fullwidth" src="/img/ordination2.png"> </span>The Compassionate Path community is rooted in the Soto Zen School and affiliated with *The Order of Clear Mind Zen*, whose goal is to bring about abundant good for all beings through social action. For more information see [our lineage page](/lineage/). 
 
 #### Teacher
 My name is Rev. Dr. Ron Mitsugo Zacharski or simply *Ron*. I was ordained a Zen priest in 2015. If you would like to know more about Compassionate Path or Zen in general please contact me at ron.zacharski@gmail.com or 575.680.4041. 

@@ -5,27 +5,39 @@ title: Schedule
 
 We invite beginners and experienced practitioners alike. All events are free.
 
+
+#### Tuesday Weekly Practice
+
+#####7:00PM. Location: Suite 331 General Washington Executive Center
+
+#####217 Princess Anne St., Fredericksburg, VA
+
+The core of our practice is traditional Zen meditation, which is silent and unguided. <span class='marginnote'>See [How to Sit Zazen](http://www.dogensanghalosangeles.org/about-zen/how-to-sit-zazen/) by the Dogen Sangha Los Angeles and also [this page]({{site.baseurl}}/howtosit/)  prepared by our sangha member, Lauren Jurgensen.</span> We meditate for two short periods of zazen (seated meditation) and one of kinhin (walking meditation). This is followed by a short discussion where we  talk about the practical aspects of meditation.  Beginners are welcome and basic instruction in meditation will be given at the beginning of the session.
+
+We practice at the General Washington Executive Center across the street from Carl's Ice Cream on Princess Anne St. We are on the third floor (there is an elevator) in room 331.
+
+We have a few meditation cushions you can use as well as a few chairs. If you have your a favorite meditation cushion, chair or bench, please consider bringing it. 
+
+
+For current information please see our [Meetup Page](http://www.meetup.com/Beginners-Mind-Zen/).
+
+
+
 #### Sunday Book Study
 
 #####2:00pm. Location: Salem Church Library, 2607 Salem Church Rd, Fredericksburg
-We <span class='marginnote'><img class="fullwidth" src="/img/tara-brach.jpg"> Tara Brach ([photo source](http://fourhourworkweek.com/2015/07/31/tara-brach/))</span> are discussing the book [*Radical Acceptance: Embracing Your Life With the Heart of a Buddha*](http://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990/ref=sr_1_1?s=books&ie=UTF8&qid=1455190721&sr=1-1&keywords=radical+acceptance) by Tara Brach. For current information about the group please see our [Meetup Page](http://www.meetup.com/Beginners-Mind-Zen/)
-From the Amazon description of the book:
+We <span class='marginnote'><img class="fullwidth" src="/img/wherever.png"> </span> are discussing the book [*Wherever You Go There You Are*](http://www.amazon.com/Wherever-You-Go-There-Are/dp/1401307787/ref=sr_1_1?ie=UTF8&qid=1465227510&sr=8-1&keywords=wherever+you+go+there+you+are) by Jon Kabat-Zinn. For current information about the group please see our [Meetup Page](http://www.meetup.com/Beginners-Mind-Zen/)
+From an Amazon customer review:
 
-> "For many of us, feelings of deficiency are right around the corner. It doesn’t take much--just hearing of someone else’s accomplishments, being criticized, getting into an argument, making a mistake at work--to make us feel that we are not okay. Beginning to understand how our lives have become ensnared in this trance of unworthiness is our first step toward reconnecting with who we really are and what it means to live fully."
+> "A family member bought this book. I found it sitting on a shelf, glanced at the cover and involuntarily thought to myself "uh oh, granola time," and came within a heartbeat of dismissing the book out of hand. Luckily, I did not. Instead, I read the introduction, and then found myself -- almost in a state of disbelief -- reading on and on. I was amazed to find that the book is not just one more new age book muttering away about a world none of us really lives in. To the contrary, the book is written by someone with a profound understanding of everyday reality, who is astonishingly good at sharing that understanding. This is simply a beautiful little book, beautifully written."
 
-> ""Believing that something is wrong with us is a deep and tenacious suffering," says Tara Brach at the start of this illuminating book. This suffering emerges in crippling self-judgments and conflicts in our relationships, in addictions and perfectionism, in loneliness and overwork--all the forces that keep our lives constricted and unfulfilled. Radical Acceptance offers a path to freedom, including the day-to-day practical guidance developed over Dr. Brach's twenty years of work with therapy clients and Buddhist students."
+This group is led by our sangha member, Trina.
 
-Previously we discussed the book [*How to Wake Up: A Buddhist-Inspired Guide to Navigating Joy and Sorrow*](http://www.amazon.com/How-Wake-Up-Buddhist-Inspired-Navigating/dp/1614290563/ref=sr_1_1?ie=UTF8&qid=1441458774&sr=8-1&keywords=how+to+wake+up) by Toni Bernhard. 
 
 Please consider joining us!
 
 
-#### Tuesday Weekly Practice
 
-#####TBD
-The core of our practice is traditional Zen meditation, which is silent and unguided. <span class='marginnote'>See [How to Sit Zazen](http://www.dogensanghalosangeles.org/about-zen/how-to-sit-zazen/) by the Dogen Sangha Los Angeles and also [this page]({{site.baseurl}}/howtosit/)  prepared by our sangha member, Lauren Jurgensen.</span> We meditate for two short periods of zazen (seated meditation) and one of kinhin (walking meditation). This is followed by a short discussion where we  talk about the practical aspects of meditation.  Beginners are welcome and basic instruction in meditation will be given at the beginning of the session.
-
-Unfortunately, we lost our practice space and are in the process of finding a new one.
 
 #### Sunday Service
 
